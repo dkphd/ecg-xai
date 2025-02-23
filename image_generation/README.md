@@ -1,0 +1,1 @@
+This is an extention library based on ecg-image-kit for augmenting images on the fly 
